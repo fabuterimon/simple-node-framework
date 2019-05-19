@@ -91,7 +91,7 @@
             "require": {
                 "application": false,
                 "channel": false,
-                "device": false
+                "device": true
             }
     },
     "integrations": 
